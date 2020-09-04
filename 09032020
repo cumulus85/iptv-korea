@@ -1,0 +1,419 @@
+#EXTM3U
+#EXTINF:-1, [COLOR blue]Blog : sarangmarket.tistory.com[/COLOR]
+#http://0.0.0.0:1234
+#EXTINF:-1, [COLOR blue]Update : 2020.08.11[/COLOR]
+#http://0.0.0.0:1234
+#EXTINF:-1, [COLOR blue]Version : 8.0.6[/COLOR]
+#http://0.0.0.0:1234
+#EXTINF:-1, [COLOR blue]Channel : 188[/COLOR]
+#http://0.0.0.0:1234
+
+
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa41c0ae00615221436.png",[FHD] 독도
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/200.png",[FHD] 아리랑 TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/91.png",[FHD] 예술 TV아르떼
+http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/dde3da5000225153230.png",[FHD] KTV
+rtmp://218.38.152.31:1935/klive/klive.stream
+
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/26.png",[540] OBS
+http://live.obs.co.kr:1935/live/obs/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/181.png",[486] 머니투데이방송
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/EBS_1TV_Logo.png",[400] EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/724px-EBS_2TV_Logo.svg.png",[400] EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/156.png",[400] EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/7ab0db0280105184910.png",[400] EBS KIDS
+#rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc playpath=familypc1m
+#EXTINF:-1, tvg-logo="http://image.ebsi.co.kr/ebsi/images/reNskin2018/common/logo_ebsi.png",[400] EBSi
+#rtmp://ebsonair.ebs.co.kr:1935/plus1familypc playpath=familypc1m
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/158.png",[400] EBS PLUS2
+#rtmp://ebsonair.ebs.co.kr:1935/plus2familypc playpath=familypc1m
+
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/175.png",[270] YTN 사이언스
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1, tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/175.png",[270] YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://1hd.ru/bitrix/templates/smashweb_v2/images/logo.png",[FHD] 1HD
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="http://1hd.ru/bitrix/templates/smashweb_v2/images/logo.png",[FHD] 1HD
+#http://rtmp.one.by:1300/
+#EXTINF:-1, tvg-logo="http://1hd.ru/bitrix/templates/smashweb_v2/images/logo.png",[FHD] 1HD (RU)
+#http://rtmp.one.by:2300/
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5kOQVkYELyEeQQapENti0AAOu6Fg9RWPOsXOWsp22AeNFKJghQ",[FHD] HD Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] LUXURY
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1, tvg-logo="https://cdn.firstonetv.eu/images/logos/ru/MIR24.png",[FHD] Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] CCTV 1
+http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] CCTV 1
+#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] CCTV 11
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] CCTV 15
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/w1m6jylv68fa4m0/idextra.png?dl=0",[FHD] ID HD
+http://136.243.177.164/IDXTRA/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/q7psky08ujjyfre/planeta.png?dl=0",[FHD] Planeta HD
+http://136.243.177.164/PLANETAHD/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://i.imgur.com/fcnRf1f.png",[FHD] Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] cti
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] DOCURAMA
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] CON TV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] auftanken.tv
+http://176.10.117.3:5000/play/a030
+#EXTINF:-1, tvg-logo="",[FHD] Rai 1 HD
+http://176.10.117.3:5000/play/a033
+#EXTINF:-1, tvg-logo="",[FHD] Rai 2 HD
+http://176.10.117.3:5000/play/a034
+#EXTINF:-1, tvg-logo="",[FHD] BBC breakfast
+http://176.10.117.3:5000/play/a035
+#EXTINF:-1, tvg-logo="",[FHD] nick schweiz
+http://176.10.117.3:5000/play/a038
+#EXTINF:-1, tvg-logo="",[FHD] ocetnr-npblctoh
+http://rt-sth-vkaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_VKAZ_IRISTON/variant.m3u8?version=2
+#EXTINF:-1, tvg-logo="",[FHD] Dro TV
+http://tv.cdn.xsg.ge/drotv/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] HBO
+http://rstr0.teamnetwork.co/stream174/stream.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] M5
+http://rstr0.teamnetwork.co/stream177/stream.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] RTL KLUB HD
+http://rstr0.teamnetwork.co/stream178/stream.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] 112 Украина
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1, tvg-logo="",[FHD] Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/y3wmumh6mwslkef/bnt1.png?dl=0",[1080] BNT1
+http://136.243.177.164/BNT1/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/gwkijrihstf9sez/btv.png?dl=0",[1080] bTV HD
+http://136.243.177.164/BTV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/9cdas50o5xt3fdg/nova.png?dl=0",[1080] NOVA HD
+http://136.243.177.164/NOVATV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/33w309xqbeqk1y5/btvcomedy.png?dl=0",[1080] b comedy HD
+http://136.243.177.164/BTVCOMEDY/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/d396ihvven8l461/btvcinema.png?dl=0",[1080] b cinema HD
+http://136.243.177.164/BTVCINEMA/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/mad6ooxfeqyh49j/btvaction.png?dl=0",[1080] b Action
+http://136.243.177.164/BTVACTION/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/cbnds1lx9d3ocrg/hbo.png?dl=0",[1080] HBO
+http://136.243.177.164/HBO/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/m8hxzyw6zhefemk/hbo2.png?dl=0",[1080] HBO2
+http://136.243.177.164/HBO2/index.m3u8?h=308R7a2QNxrbpmxlKw8Ahw
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/kyytrwn5c72ecy1/hbo3.png?dl=0",[1080] HBO3
+http://136.243.177.164/HBO3/index.m3u8?h=teJ1EKfjMkWIRvFHlkJG-Q
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/2j9rwxnjkd54d7t/fox.png?dl=0",[1080] FOX HD
+http://136.243.177.164/FOX/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/5uapal7zdgvv4ap/foxcrime.png?dl=0",[1080] FOXCRIME HD
+http://136.243.177.164/FOXCRIME/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/mktx8yuirwm4isc/foxlife.png?dl=0",[1080] FOXlife HD
+http://136.243.177.164/FOXLIFE/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/glh00iqsn9r81se/discovery.png?dl=0",[1080] Discovery
+http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://tinyurl.com/BGfreetv-natgeo-logo",[1080] NatGeo
+http://136.243.177.164:80/NATIONALGEOGRAPHIC/index.m3u8?h=ykPqH2kF2-kWzzLR9tVudQ-dwXvg
+#EXTINF:-1, tvg-logo="https://tinyurl.com/BGfreetv-A-Planet",[1080] AnimalPlanet HD
+http://136.243.177.164/ANIMALPLANET/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://tinyurl.com/BGfreetv-Vexplorer",[1080] ViasatExplorer
+http://136.243.177.164/VIASATEXPLORER/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/ae04kcr82d9sjn5/history.png?dl=0",[1080] History
+http://136.243.177.164/HISTORYTV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/p1ou3vr6rxfsr5c/24kitchen.png?dl=0",[1080] 24Kitchen HD
+http://136.243.177.164/24KITCHEN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/s3gaqp4qzlrpr34/novasport.png?dl=0",[1080] NovaSport
+http://136.243.177.164/NOVASPORT/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/ux2edk0y0glvrwx/400016100033_124453.jpg?dl=0",[1080] Diema Sport2 HD
+http://136.243.177.164/DIEMASPORT2/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/1kncyrm0hqna3g9/maxsport1.png?dl=0",[1080] Max Sport1 HD
+http://136.243.177.164/MAXSPORT1/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://ftv.bg/thumb/channels/max-sport-2.jpg",[1080] Max Sport2 HD
+http://136.243.177.164/MAXSPORT2/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/6i5bubyncngpnb3/maxsport3.png?dl=0",[1080] Max Sport3 HD
+http://136.243.177.164/MAXSPORT3/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/mlb0byud59ri0ci/maxsport4.png?dl=0",[1080] Max Sport4 HD
+http://136.243.177.164/MAXSPORT4/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/791sykvmz6vbh9h/sport%2B.png?dl=0",[1080] SportPlus
+http://136.243.177.164/SPORTPLUS/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/byc9g8b3jfeacsm/ring.png?dl=0",[1080] RING
+http://136.243.177.164/RINGBG/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="",[1080] DIEMA SPORT HD
+http://136.243.177.164/DIEMASPORT/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+
+#EXTINF:-1, tvg-logo="",[864] S
+http://81.21.47.74/hls/live.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/vV08W1S.png",[HD] Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/96POFOB.png",[HD] Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1, tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png",[HD] New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/3QAaaZj.png",[HD] TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/D4vJyy9.png",[HD] Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png",[HD] WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:-1, tvg-logo="http://img.new.livestream.com/events/000000000068bfe1/9052fb7b-99ee-4dcd-87fd-c1102bc5592e_30000.jpg",[HD] WXXV News 25 (Mississippi)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:-1, tvg-logo="",[HD] WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1, tvg-logo="",[HD] MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[HD] FMF
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1, tvg-logo="",[HD] Kiswahili (AFRIKA)
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?wowzasessionid=694075790
+#EXTINF:-1, tvg-logo="",[HD] Weathernation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1, tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png",[HD] NewsChannel 21 (Oregon)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:-1, tvg-logo="",[HD] ALSACE20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[HD] STAR GOLD HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1, tvg-logo="",[HD] Colors HD IN
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1, tvg-logo="",[HD] BBC SPORT United Kingdom (GB)
+https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo="https://streamtest.in/fallback/default.png?v=1590679711", [HD] Sony Yay India
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+#EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/3505/218_tlc.jpg?v=1579220479", [HD] TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:-1 tvg-logo="https://assets.streamtest.in/logo/3508/218_star-tv.jpg?v=1579220480", [HD] Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png", [HD] D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ie5zO7i.png", [HD] TFI Series films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="", [HD] india drama
+https://m3u8-server2.wserials.com/445/5f0df7552c16c/5f0df7552c16c.m3u8
+#EXTINF:-1 tvg-logo="", [HD] RTHK
+https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/master.m3u8?!!??
+#EXTINF:-1 tvg-logo="", [HD] MEDICAL EXCELLENCE.tv
+https://tna5.bozztv.com/medicalexcellencetv/index.m3u8
+#EXTINF:-1 tvg-logo="", [HD] SICILIAUNO
+https://tna5.bozztv.com/siciliaunostreaming/index.m3u8
+#EXTINF:-1 tvg-logo="", [HD] ALJAZEERA
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+#EXTINF:-1 tvg-logo="", [HD] BBC Four
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/819
+#EXTINF:-1 tvg-logo="", [HD] BBC NEWS
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/825
+#EXTINF:-1 tvg-logo="", [HD] ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-logo="", [HD] &flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="", [HD] DSTV (USA)
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="", [HD] SQUART
+https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[HD] RSI LA1
+http://176.10.117.3:5000/play/a031
+#EXTINF:-1, tvg-logo="",[HD] RSI LA2
+http://176.10.117.3:5000/play/a032
+#EXTINF:-1, tvg-logo="",[HD] KIKA HD
+http://176.10.117.3:5000/play/a037
+#EXTINF:-1, tvg-logo="",[HD] 30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1, tvg-logo="",[HD] ABC 7 Sarasota FL (WWSB)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1, tvg-logo="",[HD] abc NEWS
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1, tvg-logo="",[HD] NIMO TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+#EXTINF:-1, tvg-logo="",[HD] NBC 6 Miami FL (WTV)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1, tvg-logo="",[HD] ONE 31 HD
+https://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[HD] Star TV HD TR
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/15os0o3i7o3f2ck/cinemax.png?dl=0",[720] Cinemax
+http://136.243.177.164/CINEMAX/index.m3u8?h=ki9lsQQPOywOGbqsT_D6oQ
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/jfe9719tyie486d/cinemax2.png?dl=0",[720] Cinemax2
+http://136.243.177.164/CINEMAX2/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/v9dpmzq488eqyix/400019400289_97962.jpg?dl=0",[720] Eurosport 1
+http://136.243.177.164/EUROSPORT/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/z061sv2h4hiew7x/400016200906_123419.jpg?dl=0",[720] Eurosport 2
+http://136.243.177.164/EUROSPORT2/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/ohohpercr1sjm15/fentv.png?dl=0",[720] FEN TV
+http://136.243.177.164/FENTV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/ceifbdwvhheva9p/balkanika.png?dl=0",[720] Balkanika
+http://136.243.177.164/BALKANIKA/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+
+#EXTINF:-1, tvg-logo="",[576] CGTN ESPANOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1, tvg-logo="",[576] ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1, tvg-logo="http://1hd.ru/bitrix/templates/smashweb_v2/images/logo.png",[576] 1HD (RU)
+http://rtmp.one.by:2200
+#EXTINF:-1, tvg-logo="",[576] RTV
+http://197.243.19.131:1935/rtv/rtv/.m3u8
+#EXTINF:-1, tvg-logo="",[576] 100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8 
+#EXTINF:-1, tvg-logo="https://i.imgur.com/j55hDLp.png",[576] FRANCE 24 (FR)
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/j55hDLp.png",[576] FRANCE 24 (EN)
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1, tvg-logo="",[576] Visual Radio
+http://wms.shared.streamshow.it:80/visualradio/visualradio/chunklist.m3u8
+#EXTINF:-1, tvg-logo="",[576] STAR PLUS
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/bv3nni5rtvgvuh5/axn.png?dl=0",[576] AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/bv3nni5rtvgvuh5/axn.png?dl=0",[576] AXN
+#http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/f7t6pvymfpwpe5u/kinonova.png?dl=0",[576] KINNOVA
+http://136.243.177.164/KINONOVA/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/v0a6lim8ifs84jp/film%2B.png?dl=0",[576] F+
+http://136.243.177.164/FPLUS/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/kzb67u9nazrj3wa/diema.png?dl=0",[576] DIEMA
+http://136.243.177.164/DIEMA/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/9gn20wpemw3xzn1/diemaf.png?dl=0",[576] DIEMA FAMILY
+http://136.243.177.164/DIEMAFAMILY/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/v15hbslmzrfxorg/5683?dl=0",[576] b lady
+http://136.243.177.164/BTVLADY/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/xjkjwypmd4rgdh6/tlc.png?dl=0",[576] TLC
+http://136.243.177.164/TLC/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/cgeqnr4ypyuajvg/thevoice.png?dl=0",[576] The Voice
+http://136.243.177.164/THEVOICE/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://dl.dropbox.com/s/6et0skmzkibjh7p/city.png?dl=0",[576] City
+http://136.243.177.164/CITYTV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://tinyurl.com/BGfreetv-NickelodeonTV",[576] Nickelodeon
+http://136.243.177.164/NICKELODEON/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="",[576] CartoonNetwork
+http://136.243.177.164/CARTOONNETWORK/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="https://tinyurl.com/BGfreetv-BNT4-tv",[576] BNT4
+http://136.243.177.164/BNT4/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1, tvg-logo="",[576] Pink 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/836
+#EXTINF:-1, tvg-logo="",[576] Pink 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/835
+#EXTINF:-1, tvg-logo="",[576] Pink 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/835
+#EXTINF:-1, tvg-logo="",[576] Rustavi 2
+http://tv.cdn.xsg.ge/rustavi2hqnew/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-logo="",[576] FILM BOX PREMIUM
+http://rstr0.teamnetwork.co/stream162/stream.m3u8
+#EXTINF:-1, tvg-logo="",[576] JOCKY TV
+http://rstr0.teamnetwork.co/stream169/stream.m3u8
+#EXTINF:-1, tvg-logo="",[576] AP
+http://rstr0.teamnetwork.co/stream170/stream.m3u8
+#EXTINF:-1, tvg-logo="",[576] RTL
+http://rstr0.teamnetwork.co/stream171/stream.m3u8
+#EXTINF:-1, tvg-logo="",[576] ntv
+http://rstr0.teamnetwork.co/stream173/stream.m3u8
+#EXTINF:-1, tvg-logo="",[576] Disney channel
+http://176.10.117.3:5000/play/a038
+#EXTINF:-1, tvg-logo="",[576] ABC ME
+https://i.mjh.nz/au/Brisbane/tv.101002210224.m3u8
+#EXTINF:-1, tvg-logo="",[576] Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+
+#EXTINF:-1, tvg-logo="",[540] TV-NANO.RU (RU)
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1, tvg-logo="",[540] BBC One
+http://iptv1.privateiptv.club:80/random-robbie/random-robbie/808
+#EXTINF:-1, tvg-logo="",[540] BG NOVA
+https://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.artlebedev.com/lale/lale-logo.gif",[504] LALE
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 tvg-logo="https://streamtest.in/fallback/default.png?v=1587984425", [504] NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/PH1Gg4p.png",[480] Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1, tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg",[480] RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1, tvg-logo="",[480] Halb Today (Syria)
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w311743950.m3u8
+#EXTINF:-1, tvg-logo="",[480] Sat7 1 (Egypt)
+http://208.93.113.90:1935/sat7arabic/sat7arabic1/index.m3u8
+#EXTINF:-1, tvg-logo="",[480] Sat7 Kids (Egypt)
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[480] CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1, tvg-logo="",[480] NTD TV
+http://174.127.67.246/live400/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[480] PORTABLE FOXMIX TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[480] POCCNR 1 Russia (RU)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw1500000/variant.m3u8
+#EXTINF:-1, tvg-logo="https://assets.streamtest.in/logo/250/31_ntv-news24.jpg",[480] NTV NEWS 24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1, tvg-logo="",[480] NAT GEO WILD
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/jOE4ur6.png",[480] MYTV channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[480] japan show
+http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
+#EXTINF:-1, tvg-logo="",[480] 5
+http://51.89.67.64:8081/tvstanici/2/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[480] TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[480] TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[480] TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="",[480] imedi
+http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+#EXTINF:-1, tvg-logo="",[480] ESPN
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
+#EXTINF:-1, tvg-logo="",[480] MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg",[404] Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1, tvg-logo="",[404] La Liga
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1, tvg-logo="",[404] VTC13-ITV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8?time=1482093573799
+
+#EXTINF:-1, tvg-logo="",[400] DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+
+#EXTINF:-1, tvg-logo="http://www.porto.it/radio/it_m2otv.jpg",[360] radiom2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1, tvg-logo="https://images11.eitb.eus/multimedia/recursos/generales/logo_eitbeus_usuarios3_eu.gif",[360] eitb.eus
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1, tvg-logo="https://i.imgur.com/Z918C34.png",[360] Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1, tvg-logo="http://2.bp.blogspot.com/-7SeDF2eX9jA/Vk1mRVcDSHI/AAAAAAAAAvc/SnlZjuVmNHU/s1600/tv-francophonie.jpg",[360] Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png",[360] tvpi
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1, tvg-logo="",[360] 7 HD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1, tvg-logo="",[360] 7
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1, tvg-logo="",[360] RADIO CAPITAL TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/w184oprte8tx0rs/78.png?dl=0" , [360] 7B TV HD
+http://136.243.177.164/78TV/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltyaQPAm.png" , [360] CBSN NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="" , [360] 2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1 tvg-logo="" , [360] MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="" , [240] SPORT (fr)
+https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
